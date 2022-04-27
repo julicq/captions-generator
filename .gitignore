@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Flickr folders
+Flicker8k_Dataset/
+Flickr8k_text
